@@ -9,3 +9,9 @@ The coffee sales data was gotten from maven analytics.
 DATA STRUCTURE
 
 The dataset is a six-months coffee sales data containing 11 columns and 149,116 rows. The dataset contains information on products, orders, sales details. The query below is used to get an overview of the data structure.
+
+METHODOLOGY
+
+Data pre-processing and preparation
+REVENUE BY MONTH
+MONTH ON MONTH PERCENTAGE INCREASE OR DECREASE IN REVENUE
