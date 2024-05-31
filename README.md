@@ -4,14 +4,53 @@ In every organization, sales performance analysis should never be compromised on
 
 DATA SOURCE
 
-The coffee sales data was gotten from maven analytics.
+The coffee sales data was gotten from Kaggle.
 
 DATA STRUCTURE
 
 The dataset is a six-months coffee sales data containing 11 columns and 149,116 rows. The dataset contains information on products, orders, sales details. The query below is used to get an overview of the data structure.
 
-METHODOLOGY
+TOOLS
 
-Data pre-processing and preparation
-REVENUE BY MONTH
-MONTH ON MONTH PERCENTAGE INCREASE OR DECREASE IN REVENUE
+SQL was used for pre-processing and EDA.
+
+DATA PRE-PROCESSING AND PREPARATION
+
+- Data Importation
+- Renaming column header
+- Checked datatype of columns
+- Changed datatypes
+- Checked for duplicates
+
+EXPLORATORY DATA ANALYSIS (EDA)
+
+EDA was carried out to discover insights that would help the company make better decisions to maximize profitability and customer satisfaction.
+
+- Revenue by month 
+- Month on month percentage increase or decrease in revenue 
+- Month on month increase or decrease in the number of orders
+- Sales revenue and number of orders placed by weekend and weekday
+- Revenue and number of orders placed by day of week
+- Sales by hour of the day
+- Comparing daily sales with average daily sales
+- Revenue by store location
+- Revenue by product category and product type
+
+
+RECOMMENDATION
+
+- Leveraging technology for online ordering and delivery services, the company can provide added convenience to their customers and expand their reach beyond physical locations, ultimately driving business growth and increasing profitability on weekends.
+
+- Leveraging peak hours effectively, the company can capitalize on high-demand periods to drive sales, increase profitability, and enhance the overall customer experience.
+
+- Identifying possible factors affecting sales in the least revenue generating month and putting a strategy in place to drive sales in those months by analyzing external factors such as seasonality, holidays, weather conditions, and local events that may impact customer traffic and purchasing behavior.
+
+- The company should consider evaluating least selling product types to put a strategy or marketing in place to drive sales and also consider improving on the quality of those products.
+
+- Getting feedback from customers about their experiences with the least selling product types. This would help identify any issues or concerns they may have, such as taste, quality, portion size, or value for money.
+
+- The company should identify areas for improvement based on customer feedback from the least revenue generating stores, such as pricing, service quality, or overall customer experience.
+
+CONCLUSION
+
+By implementing the recommendations, the coffee-shop can increase profitability and optimize sales strategy.
